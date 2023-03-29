@@ -1,4 +1,7 @@
 ### Hi there 👋
+![bad1](https://img.shields.io/badge/stack-MERN-green)
+
+
 
 <!-- 
 **Justinsinotte/Justinsinotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
