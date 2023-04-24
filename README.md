@@ -17,7 +17,7 @@ also, for images you need the image in the github directory (pushed from vscode 
 
 -->
 
-- 🔭 Concordia Diploma in Web Development
+- 🔭 Diploma from Concordia in Web Development
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on anything and everything I can!
 - 🤔 I’m looking for help with everything and anything!
