@@ -17,11 +17,11 @@ also, for images you need the image in the github directory (pushed from vscode 
 
 -->
 
-- 🔭 I’m currently working on my final project
-- 🌱 I’m currently learning full stack engineering and life
+- 🔭 Concordia Diploma in Web Development
+- 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on anything and everything I can!
 - 🤔 I’m looking for help with everything and anything!
 - 💬 Ask me about music, mixing or mastering or live sound!
 - 📫 How to reach me: justinsinotte@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: I also speak 日本語 and Français
+- ⚡ Fun fact: I also speak Français and 日本語
